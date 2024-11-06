@@ -1,0 +1,72 @@
+.servicers{
+    background: #c5cee0;
+    padding-bottom: 120px;
+    padding-top: 120px;
+
+}
+.container{
+    max-width: 1200px;
+    margin-left: 75px;
+
+    
+}
+.suctitle{
+
+    margin-left: 124px;
+}
+.subtext1{
+    
+    color: black;
+    font-family: cursive;
+    margin-left: 39%;
+    font-size: 19px;
+
+}
+.heading1{
+    font-family: Playfair Display;
+    font-weight: bolder;
+    color: black;
+    margin-left: 224px;
+    text-align: initial;
+    font-size: 40px;
+   
+
+}
+.arrimgdiv{
+    display: flex;
+    width: 100%;
+    gap: 30px;
+       
+}
+
+
+.arrimag{
+    height: 40vh;
+    width: 28vw;
+    gap: 20px;
+    
+}
+
+
+
+
+
+.arrtext{
+    font-size: medium;
+    color: black;
+    font-weight: bold;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    margin-left: 33%;
+    display: flex;
+    padding-top: 10px;
+    
+}
+.spanproject{
+    margin-left: 14%;
+}
+.arrtext1{
+    border: 3px solid green;
+    text-align: center;
+
+}

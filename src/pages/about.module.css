@@ -1,0 +1,215 @@
+.breadcrumbs{
+    background-image: url(../images/inr-1.jpg);
+    
+    background-size: cover !important;
+    background-position: top left !important;
+}
+.container1{
+    max-width: 960px;
+    margin-left: 12%;
+    
+}
+.breadcrumbsinner{
+    padding: 140px 10px 140px 10px;
+    text-align: center;
+}
+.pagetitle{
+    position: relative;
+    z-index: 1;
+    font-size: 60px;
+    line-height: 1.3;
+    font-weight: 700;
+    color: #ffffff;
+    padding-top: 20px;
+    margin-bottom: 18px;
+    font-family: Playfair Display;
+}
+.roow{
+    --bs-gutter-x:0px;
+    margin-right: 0px;
+}
+
+ .subtext007{
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #fff;
+    text-transform: capitalize;
+    margin-bottom: 32px;
+    display: inline-block;
+}
+
+.sectitle{
+    position: relative;
+    width: fit-content;
+    
+}
+.subtext{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.3;
+    color: #010d14;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    display: block;
+    margin-top: 20px;
+    text-align: left;
+}
+.title{
+
+    font-size: 35px;
+    line-height: 41px;
+    font-weight: bolder;
+    font-family: Playfair Display;
+    text-align: left;
+}
+.desc{
+
+    text-align: left;
+    color :black;
+    
+    
+}
+
+.middle{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 462px;
+}
+.imgbox{
+    flex: 0 0 auto;
+    width: 33.33333333%;
+}
+
+.threelist{
+    flex: 0 0 auto;
+    width: 66.66666667%;
+}
+
+.checklist{
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    margin-left: 20px
+}
+.listitems{
+
+    padding-bottom: calc(6px);
+}
+.icon{
+    box-sizing: border-box;
+}
+.listtext{
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 500;
+    color: #010d14;
+    padding-left: 5px;
+}
+.signature{
+    margin-left: 60px;
+}
+.management{
+    background-image: url(../images/about-single-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    --bs-gutter-x: 0px;
+    
+
+}
+
+.rowymiddle{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+    
+
+
+}
+.bbnm{
+    margin-top: 40px;
+    padding-right: 60px;
+   
+}
+
+
+.sectitlea{
+    position: relative;
+    margin-bottom: 45px;
+}
+.pagetitle1{
+    position: relative;
+    font-size: 48px;
+    line-height: 1.3;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-family: roboto;
+}
+
+.para12{
+    font-size: 16px;
+    color: #fff;
+}
+.pickt43{
+    height: 50vh;
+    margin-top: 20px;
+    padding-left: 60px;
+    background-color: blueviolet;
+}
+.skilbartitle{
+    color: #F7F7F7;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.formrow{
+    background-image: url(../images/contact-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    --bs-gutter-x:0px;
+    margin-right: 0px;
+    
+ 
+}
+
+.formcol{
+   
+}
+.formtem{
+    padding: 120px 22px 120px 45px;
+   
+
+}
+.contactform{
+    
+    
+}
+.contactboxitems{
+    padding: 120px 0 120px 0;
+}
+
+.contactbox{
+    display: flex;
+    padding: 30px 30px 30px 30px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    margin-right: 50px;
+    
+}
+
+
+.contacticons{
+    box-sizing: border-box;
+}
+.contacttext{
+    padding: 0px 0px 0px 15px;
+}
+.picaso{
+    width: 80px;
+    height: 80px;
+    max-width: unset;
+}

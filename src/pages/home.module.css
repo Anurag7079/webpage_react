@@ -1,0 +1,502 @@
+.cardiv{
+    
+    width: 47vw;
+    margin-bottom: 70vh;
+    margin-left: -50px;
+    
+    
+}
+.consbuss{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #333333;
+    float:left;
+    text-transform: uppercase;
+    margin-left: 20px;
+    
+}
+
+.caption{
+    float: left;
+    font-size:60px;
+    color: black;
+    font-weight: 700;
+    font-family: Playfair Display;
+  
+}
+
+.cardiv2{
+    width: 47vw;
+    margin-bottom: 70vh;
+    margin-left: 410px;
+}
+.consbuss2{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #333333;
+    float:left;
+    text-transform: uppercase;
+    margin-left: 110.5px;
+
+}
+.caption2{
+    float: right;
+    font-size:60px;
+    color: black;
+    font-weight: 700;
+    font-family: Playfair Display;
+}
+
+
+
+.caroupic{
+    background-position: top center;
+    background-repeat: no-repeat;
+    width: 1500px;
+    position: relative;
+    background-size: cover;
+    
+
+}
+
+
+.sectitle{
+    position: relative;
+    width: fit-content;
+    padding-top: 20px;
+    
+}
+.subtext{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.3;
+    color: #010d14;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    display: block;
+    margin-top: 20px;
+    text-align: left;
+}
+.title{
+
+    font-size: 35px;
+    line-height: 41px;
+    font-weight: bolder;
+    font-family: Playfair Display;
+    text-align: left;
+}
+.desc{
+
+    text-align: left;
+    color :black;
+    
+    
+}
+
+.middle{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 462px;
+}
+.imgbox{
+    flex: 0 0 auto;
+    width: 33.33333333%;
+}
+.threelist{
+    flex: 0 0 auto;
+    width: 66.66666667%;
+}
+
+.checklist{
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    margin-left: 20px
+}
+.listitems{
+
+    padding-bottom: calc(6px);
+}
+.icon{
+    box-sizing: border-box;
+}
+.listtext{
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 500;
+    color: #010d14;
+    padding-left: 5px;
+}
+.signature{
+    margin-left: 60px;
+}
+.servicers{
+    background: #e8eaee;
+    padding-bottom: 120px;
+    padding-top: 120px;
+
+}
+.container{
+    max-width: 1200px;
+    margin-left: 55px;
+    
+}
+.suctitle{
+
+    padding-left: 124px;
+}
+.subtext1{
+    
+    color: black;
+    font-family: cursive;
+    margin-left: 396px;
+    font-size: 19px;
+
+}
+.heading1{
+    font-family: Playfair Display;
+    font-weight: bolder;
+    color: black;
+    margin-left: 224px;
+    text-align: initial;
+    font-size: 40px;
+   
+}
+.arrimgdiv{
+
+ display: flex;
+ gap: 30px;
+    
+}
+.arrimg{
+    height: 40vh;
+    width: 28vw;
+    gap: 20px;
+}
+.arrtext{
+    font-size: medium;
+    color: black;
+    font-weight: bold;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    margin-left: 60px;
+    display: flex;
+    width: 451px;
+    
+}
+
+
+.imgd{
+    height: 40vh;
+    width: 28vw;
+   
+   
+}
+
+.rrrr{
+    box-sizing: border-box;
+    
+}
+.names{
+    
+    height: 10vh;
+    background-color: #e8eaee;
+    margin-left: 1px;
+    display: flex;
+    gap: 20px;
+
+    
+
+   
+    
+    
+}
+
+.itemname{
+    font-size: medium;
+    color: black;
+    font-weight: bold;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    margin-left: 60px;
+    
+    
+     
+   
+}
+.roow{
+    --bs-gutter-x: 0px;
+    margin-right: 0px;
+}
+
+.faqcontant{
+   
+    padding: -1px 30px 120px 30px;
+    width: 35vw;
+    background-color: white;
+    margin-left: 95px;
+    margin-top: 2px;
+    
+    
+}
+.sectitle1{
+    position: relative;
+    width: fit-content;
+   
+    margin-bottom: 29px;
+}
+.bbbbm{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #010d14;
+    text-transform: uppercase;
+    padding-top: 15px;
+    margin: 0 0 10px;
+    display: block;
+}
+.ch{
+    background-color: #ffb703; 
+    height: 10vh;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 29px;
+    
+}
+.ct{
+    background-color: #F1F1F1;
+    font-size: 16px;
+}
+.card1{
+    background-color: #010d14;
+    color: #F1F1F1;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0px 0px 20px 0px
+}
+.faqimage{
+   
+   width: 100%;
+  
+}
+.subspan{
+    margin-left: 60px;
+}
+.row2{
+   height: 113vh; 
+   --bs-gutter-x: 0px;
+   margin-right: 0px;
+}
+.cyboom{
+    background-image: url(../images/video1g1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.faqimage45{
+    background-color: #F1F1F1;
+}
+.wrapcontent1{
+    
+    margin: 120px 0px 115px 30px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 0 30px 0 0;
+    height: 40vh;
+    width: 42vw;
+    
+    
+}
+.random{
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-left: calc(var(--bs-gutter-x) * -.5);
+}
+.coling{
+    margin-bottom: 25px;
+    flex: 0 0 auto;
+    width: 50%;
+}
+.addonservices{
+    box-sizing: border-box;
+}
+.serviceitems{
+    display: flex;
+    position: relative;
+}
+.serielnumber{
+    position: absolute;
+}
+.servicetext{
+    padding: 5px 0px 0px 55px;
+}
+.servicetitle{
+    box-sizing: border-box
+}
+.sustain{
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+    font-family: "Roboto", Sans-serif;
+    margin: 0 0 10px;
+    color:black;
+    font-weight: bold;
+}
+.skillspart{
+    padding-top: 50px;
+}
+.rowymiddle{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.worcli{
+    flex: 0 0 auto;
+    width: 33.33333333%;
+}
+.titleinner{
+    margin-bottom: 10px;
+}
+.workk{
+    flex: 0 0 auto;
+    width: 66.66666667%;
+    margin-bottom: 48px;
+   
+
+}
+.skillbar{
+    margin-bottom: 10px;
+    height: 10px;
+    background-color: #ccc8bd;
+    border-radius: 10px;
+  
+}
+.bar{
+    height: 10px;
+    background-color: #ffb703;
+    width: 95%;  
+}
+.persent{
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: 40px;
+    top: -38px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #010d14;
+   
+}
+.carouseldiv{
+   background-color: #ffb703;
+  
+   
+}
+.carouselrow{
+    
+}
+.carouselcol{
+   background-color: #ffb703;
+}
+
+.carouselcon{
+    width: 100%;
+}
+
+
+
+
+.TESTIMONIALSdiv{
+    margin: 47px 0px 115px 30px;
+    width: fit-content;
+    height: 3vh;
+    background-color: #ffb703;
+    padding-bottom: 20px;
+    margin-left: 24%;
+    
+}
+
+
+
+.suctitletermi{
+    margin-left: -151px;
+    text-align: center;
+}
+
+.subtext1termi{
+    color: black;
+    font-family: cursive;
+    padding-left: 33%;
+    font-size: 19px;
+}
+.heading1termi{
+    font-family: Playfair Display;
+    font-weight: bolder;
+    color: black;
+    padding-left: 255px;
+    text-align: initial;
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+
+.formrow{
+    background-image: url(../images/contact-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    --bs-gutter-x: 0px;
+    margin-right: 0px;
+    
+ 
+}
+
+.formcol{
+   
+}
+.formtem{
+    padding: 120px 22px 120px 45px;
+   
+
+}
+.contactform{
+    
+    
+}
+.contactboxitems{
+    padding: 120px 0 120px 0;
+}
+
+.contactbox{
+    display: flex;
+    padding: 30px 30px 30px 30px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    margin-right: 50px;
+    
+}
+
+
+.contacticons{
+    box-sizing: border-box;
+}
+.contacttext{
+    padding: 0px 0px 0px 15px;
+}
+.picaso{
+    width: 80px;
+    height: 80px;
+    max-width: unset;
+}
+.bottomo{
+    background: #e8eaee;
+    padding-bottom: 120px;
+    padding-top: 120px;
+}

@@ -1,0 +1,42 @@
+.navvv{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+.img1{
+
+    height: 52px;
+   
+}
+.nana a{
+        
+        color: black;
+        font-size: large;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        
+        
+        
+}
+
+
+.search{
+
+    margin-left: 200px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.ttt{
+    margin-left: 60px;
+}
+.searcha{
+    margin-left: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.navitemsa{
+    margin-left: 26px;
+
+}
+.navitemsa:hover{
+    color: #ffb703 ;
+}

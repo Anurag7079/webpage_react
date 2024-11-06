@@ -1,0 +1,98 @@
+.breadcrumbs{
+    background-image: url(../images/inr-1.jpg);
+    
+    background-size: cover !important;
+    background-position: top left !important;
+}
+.container1{
+    max-width: 960px;
+    margin-left: 12%;
+    
+}
+
+.breadcrumbsinner{
+    padding: 140px 10px 140px 10px;
+    text-align: center;
+}
+.pagetitle{
+    position: relative;
+    z-index: 1;
+    font-size: 60px;
+    line-height: 1.3;
+    font-weight: 700;
+    color: #ffffff;
+    padding-top: 20px;
+    margin-bottom: 18px;
+    font-family: Playfair Display;
+}
+.subtext007{
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #fff;
+    text-transform: capitalize;
+    margin-bottom: 32px;
+    display: inline-block;
+}
+.vok{
+    background-color:#f6f7f9;
+    padding-bottom: 120px;
+    padding-top: 120px;
+   
+}
+.container2{
+    max-width: 1200px;
+    width: 100%;
+    margin-left: 5.5%;
+}
+.card {
+    --bs-card-border-color: white;
+
+}
+.rowcard{
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) * -.5);
+    margin-left: calc(var(--bs-gutter-x) * -.5);
+}
+.cardimg{
+    height: 74px;
+    width: 74px;
+    max-width: 100%;
+    transform: scale(1);
+    transition: 0.4s;
+    margin-left: 1px;
+    padding-bottom: 10px;
+}
+.cardimg:hover{
+    height: 77px;
+    width: 77px;
+    
+
+}
+
+.h5:hover{
+    color: darkorange; 
+    font-weight: bold;
+}
+
+.cardcol{
+    margin-bottom: 20px;
+    flex: 0 0 auto;
+    width: 33.33333333%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+   
+    
+    
+}
+.servicsitems{
+    position: relative;
+    padding: 40px 50px 46px 50px;
+    margin: 0 -2px 0 -2px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+}

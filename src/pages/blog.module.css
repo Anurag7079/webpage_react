@@ -1,0 +1,85 @@
+.breadcrumbs{
+    background-image: url(../images/inr-3.jpg);
+    
+    background-size: cover !important;
+    background-position: top left !important;
+}
+.container1{
+    max-width: 960px;
+    margin-left: 12%;
+    
+}
+.breadcrumbsinner{
+    padding: 140px 10px 140px 10px;
+    text-align: center;
+}
+.pagetitle{
+    position: relative;
+    z-index: 1;
+    font-size: 60px;
+    line-height: 1.3;
+    font-weight: 700;
+    color: #ffffff;
+    padding-top: 20px;
+    margin-bottom: 18px;
+    font-family: Playfair Display;
+}
+.subtext007{
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #fff;
+    text-transform: capitalize;
+    margin-bottom: 32px;
+    display: inline-block;
+}
+.innerblog{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    
+}
+.container2{
+   
+    width: 100%;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: grid;
+    place-items: center;
+    
+   
+}
+.blogrow{
+    --bs-gutter-x:0px;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * 0px);
+    margin-right: calc(var(--bs-gutter-x) * 0px);
+    margin-left: calc(var(--bs-gutter-x) * 0px);
+}
+.blogcol{
+    flex: 0 0 auto;
+    width: 66.66666667%;
+}
+.blogcards{
+   
+    padding-bottom: 30px;
+    padding-top: 11px;
+}
+.cardtitle{
+   color: #010d14;
+   font-family: Playfair Display;
+   font-size: 28px;
+   font-weight: bold;
+}
+.cardtitle:hover{
+    color:#ffb703 ;
+}
+.nmn{
+    height: 20vh;
+    width: 30vw;
+    background-color: #ffb703;
+    float: right;
+    margin-right: 30px;
+    
+}
